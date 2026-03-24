@@ -6,6 +6,8 @@ I'll dedicate this repo to have as many chatbots as possible, from the very simp
 ## Purpose:
 To have a central repo to understand the basics of creating chat applications with LLMs.
 
+---
+
 ## Setup
 - clone the repo
 - setup the venv with all the requirements
